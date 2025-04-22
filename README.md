@@ -22,6 +22,5 @@ Important Links
 Repository Structure
 
 ├── With Augmentation/         # All the script files with augmentation
-
 ├── Without Augmentation/      # All the script files without augmentation
 └── README.md       # Project overview (this file)
