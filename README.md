@@ -12,7 +12,7 @@ Important Links
 - *Research Paper*: https://drive.google.com/file/d/1on_rVulJUYvPSynlaRJvg6-wOMor4lhN/view?usp=sharing
 - *Report*: https://docs.google.com/document/d/15tSKZ2_JNhHdEaploiR2i1_Huz7T9XoDMGuAnlxSv-o/edit?usp=sharing
 - *Models & Scripts*: https://drive.google.com/drive/folders/1wN_Tf4OQJ_8rhi6GGYfpYYaCHpewjp9K?usp=sharing
-- 
+  
 - *Datasets*:
   - https://huggingface.co/datasets/JamieWithofs/Deepfake-and-real-images 
   - https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images 
