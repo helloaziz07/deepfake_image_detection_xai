@@ -21,6 +21,8 @@ Important Links
 
 Repository Structure
 
-├── With Augmentation/         # All the script files with augmentation
-├── Without Augmentation/      # All the script files without augmentation
-└── README.md       # Project overview (this file)
+├── With Data Augmentation/         # All the script files with augmentation
+├── Without Data Augmentation/      # All the script files without augmentation
+├── Explainable AI (XAI ).ipynb     # Jupyter Notebook for Explainable AI (XAI)
+└── README.md                       # Project overview and documentation
+
